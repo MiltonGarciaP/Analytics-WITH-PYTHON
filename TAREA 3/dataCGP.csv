@@ -1,0 +1,51 @@
+Fecha,Cliente,Producto,Cantidad,Precio U.,Total,Origen
+11/1/2023,Cliente1,ProductoA,5,10,50,Online
+11/2/2023,Cliente2,ProductoB,3,15,45,Online
+11/3/2023,Cliente3,ProductoC,2,20,40,Online
+11/4/2023,Cliente4,ProductoA,4,10,40,Tienda Física
+11/5/2023,Cliente5,ProductoD,1,30,30,Online
+11/6/2023,Cliente6,ProductoB,2,15,30,Online
+11/7/2023,Cliente7,ProductoA,3,10,30,Tienda Física
+11/8/2023,Cliente8,ProductoC,2,20,40,Online
+11/9/2023,Cliente9,ProductoD,4,30,120,Online
+11/10/2023,Cliente10,ProductoA,3,10,30,Tienda Física
+11/11/2023,Cliente11,ProductoB,5,15,75,Online
+11/12/2023,Cliente12,ProductoC,2,20,40,Online
+11/13/2023,Cliente13,ProductoD,1,30,30,Tienda Física
+11/14/2023,Cliente14,ProductoA,3,10,30,Online
+11/15/2023,Cliente15,ProductoB,4,15,60,Online
+11/16/2023,Cliente16,ProductoC,2,20,40,Tienda Física
+11/17/2023,Cliente17,ProductoD,3,30,90,Online
+11/18/2023,Cliente18,ProductoA,4,10,40,Online
+11/19/2023,Cliente19,ProductoB,2,15,30,Tienda Física
+11/20/2023,Cliente20,ProductoC,3,20,60,Online
+11/21/2023,Cliente21,ProductoD,1,30,30,Online
+11/22/2023,Cliente22,ProductoA,5,10,50,Tienda Física
+11/23/2023,Cliente23,ProductoB,3,15,45,Online
+11/24/2023,Cliente24,ProductoC,2,20,40,Online
+11/25/2023,Cliente25,ProductoD,4,30,120,Tienda Física
+11/26/2023,Cliente26,ProductoA,3,10,30,Online
+11/27/2023,Cliente27,ProductoB,5,15,75,Online
+11/28/2023,Cliente28,ProductoC,2,20,40,Online
+11/29/2023,Cliente29,ProductoD,1,30,30,Tienda Física
+11/30/2023,Cliente30,ProductoA,2,10,20,Online
+12/1/2023,Cliente31,ProductoB,4,15,60,Online
+12/2/2023,Cliente32,ProductoC,3,20,60,Tienda Física
+12/3/2023,Cliente33,ProductoD,1,30,30,Online
+12/4/2023,Cliente34,ProductoA,3,10,30,Online
+12/5/2023,Cliente35,ProductoB,2,15,30,Online
+12/6/2023,Cliente36,ProductoC,5,20,100,Tienda Física
+12/7/2023,Cliente37,ProductoD,4,30,120,Online
+12/8/2023,Cliente38,ProductoA,2,10,20,Online
+12/9/2023,Cliente39,ProductoB,3,15,45,Online
+12/10/2023,Cliente40,ProductoC,1,20,20,Tienda Física
+12/11/2023,Cliente41,ProductoD,5,30,150,Online
+12/12/2023,Cliente42,ProductoA,4,10,40,Online
+12/13/2023,Cliente43,ProductoB,2,15,30,Online
+12/14/2023,Cliente44,ProductoC,3,20,60,Tienda Física
+12/15/2023,Cliente45,ProductoD,2,30,60,Online
+12/16/2023,Cliente46,ProductoA,1,10,10,Online
+12/17/2023,Cliente47,ProductoB,5,15,75,Online
+12/18/2023,Cliente48,ProductoC,4,20,80,Tienda Física
+12/19/2023,Cliente49,ProductoD,3,30,90,Online
+12/20/2023,Cliente50,ProductoA,2,10,20,Online
